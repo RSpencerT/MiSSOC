@@ -45,7 +45,7 @@ conda activate additive_model_estimation_env
 ```
 **Important**: This project uses on the MOSEK solver (version 11.0.4). A valid MOSEK license is required. Academic users can obtain a free license in https://www.mosek.com/products/academic-licenses/.
 
-Finally, to enable Python imports like from src.funcs..., install the project locally using the provided setup.py:
+Finally, to enable Python imports like from funcs.data_fitting..., install the project locally using the provided setup.py:
 ```bash
 cd shape_constrained_smooth_additive_regression_model
 pip install .
