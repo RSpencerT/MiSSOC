@@ -1,0 +1,16 @@
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Python virtual envs (only if created at root)
+venv/
+.venv/
+env/
