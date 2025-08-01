@@ -36,6 +36,6 @@ This repository is organized into two main folders:
 
 - `shape_constrained_smooth_additive_regression_model/`: Python code to fit shape-constrained smooth additive regression models using B-splines.
   
-- `surrogate_optimization/`: Construct and solve surrogate optimization problems using the fitted models for the Hydro Unit Commitment problem.
+- `surrogate_optimization/`: Python code to construct and solve surrogate optimization problems using the fitted models for the Hydro Unit Commitment problem.
 
 Each folder is self-contained and includes its own documentation.
