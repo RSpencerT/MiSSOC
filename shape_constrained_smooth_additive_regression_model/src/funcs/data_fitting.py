@@ -58,7 +58,7 @@ def models_fitting_and_txt_result(folder,data_name, data,
     #### preparing results ####
     ###########################
     # path to save txt files
-    path_txt_save = os.path.join(os.getcwd(), 'shape_constrained_additive_regression_model','results', 'txt files', folder, data_name)
+    path_txt_save = os.path.join(os.getcwd(), 'shape_constrained_smooth_additive_regression_model','results', 'txt files', folder, data_name)
     os.makedirs(path_txt_save, exist_ok=True)
 
     ## initialize dicts to store polynomial coefficients
